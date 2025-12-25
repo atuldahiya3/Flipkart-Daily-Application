@@ -28,5 +28,3 @@ https://github.com/lusiferjr/CabBookingSystem/tree/main/src
 It will execute all the sample test cases and print:
 - Full inventory summary
 - All required search scenarios with filters and sorting
-
-## Sample Output
